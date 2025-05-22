@@ -1,6 +1,8 @@
 When should I use a struct instead of a class?
 
+
 يعني ممكن نقول اذا ممكن نستغني عن مبادئ البرمجة الشيئية يمكننا استخدام الstruct بدلا من الclass
+
 Use a struct if:
 
 You need a lightweight object.
